@@ -4,7 +4,7 @@
 
 
 
-*Behavior: numbers < 10 converted to roman numerals Input: 8 output: VII
+*Behavior: numbers < 10 converted to roman numerals Input: 8 output: VIII
 
 *Behavior: numbers < 100 converted to roman numerals Input: 75 output: LXXV
 
